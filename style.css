@@ -1,0 +1,42 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+body{
+	background-size:cover;
+	background-position:center;
+	background-color:#ffffff;
+
+	font-family: sans-serif;
+
+}
+.pillborder{
+  border-radius: 50px;
+  box-sizing:border-box;
+  opacity:2.7;
+	background:#156336;
+}
+.smedia i{
+  font-size: 30px;
+	float: left;
+}
+.link{
+	cursor: pointer;
+}
+.servicemenu{
+	border-radius:20px;
+	background:rgba(0,0,0,0.5);
+	box-sizing:border-box;
+	padding:40px;
+	color:#fff;
+	padding-right: 1px;
+}
+.servicemenu:hover{
+	background-color:#7accb5;
+	opacity:1.0;
+}
+.svc:hover{
+	background-color: #e8828c;
+	opacity: 2.5;
+}
